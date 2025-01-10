@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm S M Aanantha Priya</h1>
-- 🌱 I’m currently learning **Data Science at IIT Madras**
+- 🌱 I’m currently learning Data Science at IIT Madras
 
 - 👯 I’m looking to collaborate on **data analysis projects, machine learning models, and open-source contributions related to data science**
 
